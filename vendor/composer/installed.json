@@ -1455,17 +1455,17 @@
         },
         {
             "name": "laravel/sail",
-            "version": "v1.16.0",
-            "version_normalized": "1.16.0.0",
+            "version": "v1.16.3",
+            "version_normalized": "1.16.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/sail.git",
-                "reference": "73030c18b769f27e6f6aacf7848d024fa9a55560"
+                "reference": "0dbee8802e17911afbe29a8506316343829b056e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/sail/zipball/73030c18b769f27e6f6aacf7848d024fa9a55560",
-                "reference": "73030c18b769f27e6f6aacf7848d024fa9a55560",
+                "url": "https://api.github.com/repos/laravel/sail/zipball/0dbee8802e17911afbe29a8506316343829b056e",
+                "reference": "0dbee8802e17911afbe29a8506316343829b056e",
                 "shasum": ""
             },
             "require": {
@@ -1474,7 +1474,7 @@
                 "illuminate/support": "^8.0|^9.0",
                 "php": "^7.3|^8.0"
             },
-            "time": "2022-08-31T16:38:14+00:00",
+            "time": "2022-11-21T16:19:18+00:00",
             "bin": [
                 "bin/sail"
             ],
@@ -1914,17 +1914,17 @@
         },
         {
             "name": "league/flysystem",
-            "version": "3.10.3",
-            "version_normalized": "3.10.3.0",
+            "version": "3.10.4",
+            "version_normalized": "3.10.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "8013fb046c6a244b2b1b75cc95d732ed6bcdeb8a"
+                "reference": "a7790f3dd1b27af81d380e6b2afa77c16ab7e181"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/8013fb046c6a244b2b1b75cc95d732ed6bcdeb8a",
-                "reference": "8013fb046c6a244b2b1b75cc95d732ed6bcdeb8a",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/a7790f3dd1b27af81d380e6b2afa77c16ab7e181",
+                "reference": "a7790f3dd1b27af81d380e6b2afa77c16ab7e181",
                 "shasum": ""
             },
             "require": {
@@ -1954,7 +1954,7 @@
                 "phpunit/phpunit": "^9.5.11",
                 "sabre/dav": "^4.3.1"
             },
-            "time": "2022-11-14T10:42:43+00:00",
+            "time": "2022-11-26T19:48:01+00:00",
             "type": "library",
             "installation-source": "dist",
             "autoload": {
@@ -1988,7 +1988,7 @@
             ],
             "support": {
                 "issues": "https://github.com/thephpleague/flysystem/issues",
-                "source": "https://github.com/thephpleague/flysystem/tree/3.10.3"
+                "source": "https://github.com/thephpleague/flysystem/tree/3.10.4"
             },
             "funding": [
                 {
@@ -2626,17 +2626,17 @@
         },
         {
             "name": "nunomaduro/collision",
-            "version": "v6.3.0",
-            "version_normalized": "6.3.0.0",
+            "version": "v6.3.1",
+            "version_normalized": "6.3.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nunomaduro/collision.git",
-                "reference": "17f600e2e8872856ff2846243efb74ad4b6da531"
+                "reference": "0f6349c3ed5dd28467087b08fb59384bb458a22b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/17f600e2e8872856ff2846243efb74ad4b6da531",
-                "reference": "17f600e2e8872856ff2846243efb74ad4b6da531",
+                "url": "https://api.github.com/repos/nunomaduro/collision/zipball/0f6349c3ed5dd28467087b08fb59384bb458a22b",
+                "reference": "0f6349c3ed5dd28467087b08fb59384bb458a22b",
                 "shasum": ""
             },
             "require": {
@@ -2654,7 +2654,7 @@
                 "phpunit/phpunit": "^9.5.23",
                 "spatie/ignition": "^1.4.1"
             },
-            "time": "2022-08-29T09:11:20+00:00",
+            "time": "2022-09-29T12:29:49+00:00",
             "type": "library",
             "extra": {
                 "branch-alias": {
@@ -3334,17 +3334,17 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "9.5.24",
-            "version_normalized": "9.5.24.0",
+            "version": "9.5.26",
+            "version_normalized": "9.5.26.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "d0aa6097bef9fd42458a9b3c49da32c6ce6129c5"
+                "reference": "851867efcbb6a1b992ec515c71cdcf20d895e9d2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/d0aa6097bef9fd42458a9b3c49da32c6ce6129c5",
-                "reference": "d0aa6097bef9fd42458a9b3c49da32c6ce6129c5",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/851867efcbb6a1b992ec515c71cdcf20d895e9d2",
+                "reference": "851867efcbb6a1b992ec515c71cdcf20d895e9d2",
                 "shasum": ""
             },
             "require": {
@@ -3366,21 +3366,21 @@
                 "phpunit/php-timer": "^5.0.2",
                 "sebastian/cli-parser": "^1.0.1",
                 "sebastian/code-unit": "^1.0.6",
-                "sebastian/comparator": "^4.0.5",
+                "sebastian/comparator": "^4.0.8",
                 "sebastian/diff": "^4.0.3",
                 "sebastian/environment": "^5.1.3",
-                "sebastian/exporter": "^4.0.3",
+                "sebastian/exporter": "^4.0.5",
                 "sebastian/global-state": "^5.0.1",
                 "sebastian/object-enumerator": "^4.0.3",
                 "sebastian/resource-operations": "^3.0.3",
-                "sebastian/type": "^3.1",
+                "sebastian/type": "^3.2",
                 "sebastian/version": "^3.0.2"
             },
             "suggest": {
                 "ext-soap": "*",
                 "ext-xdebug": "*"
             },
-            "time": "2022-08-30T07:42:16+00:00",
+            "time": "2022-10-28T06:00:21+00:00",
             "bin": [
                 "phpunit"
             ],
@@ -3419,7 +3419,7 @@
             ],
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/9.5.24"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/9.5.26"
             },
             "funding": [
                 {
@@ -3429,6 +3429,10 @@
                 {
                     "url": "https://github.com/sebastianbergmann",
                     "type": "github"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/phpunit/phpunit",
+                    "type": "tidelift"
                 }
             ],
             "install-path": "../phpunit/phpunit"
@@ -5350,17 +5354,17 @@
         },
         {
             "name": "spatie/laravel-ignition",
-            "version": "1.5.0",
-            "version_normalized": "1.5.0.0",
+            "version": "1.6.1",
+            "version_normalized": "1.6.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spatie/laravel-ignition.git",
-                "reference": "192962f4d84526f6868c512530c00633e3165749"
+                "reference": "2b79cf6ed40946b64ac6713d7d2da8a9d87f612b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/192962f4d84526f6868c512530c00633e3165749",
-                "reference": "192962f4d84526f6868c512530c00633e3165749",
+                "url": "https://api.github.com/repos/spatie/laravel-ignition/zipball/2b79cf6ed40946b64ac6713d7d2da8a9d87f612b",
+                "reference": "2b79cf6ed40946b64ac6713d7d2da8a9d87f612b",
                 "shasum": ""
             },
             "require": {
@@ -5387,7 +5391,7 @@
                 "phpstan/phpstan-phpunit": "^1.0",
                 "spatie/laravel-ray": "^1.27"
             },
-            "time": "2022-09-16T13:45:54+00:00",
+            "time": "2022-10-26T17:39:54+00:00",
             "type": "library",
             "extra": {
                 "laravel": {
